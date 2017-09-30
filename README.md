@@ -1,2 +1,0 @@
-# sphinx_susiai_theme
-sphinx_susiai_theme
